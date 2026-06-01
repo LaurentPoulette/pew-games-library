@@ -172,6 +172,28 @@
       "rulesUrl": "",
       "roundNames": ["3", "4", "5", "6", "7", "8", "9", "10", "V", "D", "R"],
       "showAllRoundsAtStart": false
+    },
+    {
+      "id": "lib_petanque",
+      "name": "Pétanque",
+      "category": "sport",
+      "addedAt": "2026-06-01",
+      "minAge": 7,
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "winCondition": "highest",
+      "scoreMode": "points",
+      "target": 13,
+      "targetGap": 2,
+      "rounds": null,
+      "fixedRoundScore": null,
+      "trackDealer": false,
+      "timerDuration": null,
+      "teamMode": true,
+      "rulesSetup": "Délimitez un terrain (boulodrome ou terrain plat). Formez les équipes : tête-à-tête (1v1), doublette (2v2) ou triplette (3v3). Chaque joueur dispose de 3 boules (2 en triplette). Tirez au sort l'équipe qui commence et placez le cochonnet à la distance réglementaire.",
+      "rulesTurn": "L'équipe qui a le cochonnet le lance (6 à 10 m). Les joueurs lancent leurs boules en alternance : celui qui est le plus loin du cochonnet joue. On peut pointer (placer sa boule près du cochonnet) ou tirer (déloger une boule adverse). L'équipe qui n'est pas au point joue jusqu'à être au point ou avoir épuisé ses boules.",
+      "rulesEnd": "Quand toutes les boules ont été jouées, l'équipe dont la boule est la plus proche du cochonnet marque autant de points qu'elle a de boules mieux placées que la meilleure boule adverse. La partie se joue en 13 points avec un écart de 2 points minimum.",
+      "rulesUrl": ""
     }
   ]
 }
