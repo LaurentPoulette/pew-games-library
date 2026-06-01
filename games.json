@@ -4,6 +4,7 @@
     {
       "id": "lib_belote",
       "name": "Belote",
+      "image": "images/lib_belote.jpg",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 10,
@@ -25,6 +26,7 @@
     {
       "id": "lib_coinche",
       "name": "Coinche",
+      "image": "images/lib_coinche.jpg",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 10,
@@ -46,6 +48,7 @@
     {
       "id": "lib_tarot",
       "name": "Tarot",
+      "image": "images/lib_tarot.jpg",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 12,
@@ -67,6 +70,7 @@
     {
       "id": "lib_uno",
       "name": "Uno",
+      "image": "images/lib_uno.jpg",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 7,
@@ -88,6 +92,7 @@
     {
       "id": "lib_scrabble",
       "name": "Scrabble",
+      "image": "images/lib_scrabble.jpg",
       "category": "lettres",
       "addedAt": "2026-06-01",
       "minAge": 10,
@@ -109,6 +114,7 @@
     {
       "id": "lib_papayoo",
       "name": "Papayoo",
+      "image": "images/lib_papayoo.webp",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 8,
@@ -130,6 +136,7 @@
     {
       "id": "lib_yams",
       "name": "Yams (Yahtzee)",
+      "image": "images/lib_yams.jpg",
       "category": "dés",
       "addedAt": "2026-06-01",
       "minAge": 8,
@@ -153,6 +160,7 @@
     {
       "id": "lib_cinq_rois",
       "name": "Cinq Rois",
+      "image": "images/lib_cinq_rois.jpg",
       "category": "cartes",
       "addedAt": "2026-06-01",
       "minAge": 8,
@@ -176,6 +184,7 @@
     {
       "id": "lib_petanque",
       "name": "Pétanque",
+      "image": "images/lib_petanque.jpg",
       "category": "sport",
       "addedAt": "2026-06-01",
       "minAge": 7,
