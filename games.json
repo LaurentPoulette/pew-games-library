@@ -146,7 +146,9 @@
       "rulesSetup": "Chaque joueur dispose d'une fiche de score avec 13 cases. Préparez 5 dés.",
       "rulesTurn": "Lancez les 5 dés. Mettez de côté les dés à conserver et relancez jusqu'à 3 fois maximum. Inscrivez ensuite votre score dans la case de votre choix.",
       "rulesEnd": "Après 13 tours, toutes les cases sont remplies. Calculez les totaux (bonus de 35 pts si supérieur ≥ 63). Le joueur avec le total le plus élevé gagne.",
-      "rulesUrl": ""
+      "rulesUrl": "",
+      "roundNames": ["As", "Deux", "Trois", "Quatre", "Cinq", "Six", "Brelan", "Carré", "Full", "Petite suite", "Grande suite", "Yams", "Chance"],
+      "showAllRoundsAtStart": true
     }
   ]
 }
