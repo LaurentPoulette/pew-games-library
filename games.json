@@ -140,7 +140,7 @@
       "target": null,
       "rounds": 13,
       "fixedRoundScore": null,
-      "trackDealer": false,
+      "trackDealer": true,
       "timerDuration": null,
       "teamMode": false,
       "rulesSetup": "Chaque joueur dispose d'une fiche de score avec 13 cases. Préparez 5 dés.",
