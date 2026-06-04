@@ -617,6 +617,32 @@
       "rulesUrl": "https://www.cocktailgames.com/wp-content/uploads/2024/06/regle_jungo_0424_v11.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
+    },
+    {
+      "id": "lib_danger",
+      "name": "Danger",
+      "image": null,
+      "category": "cartes",
+      "addedAt": "2026-06-04",
+      "minAge": 10,
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "winCondition": "highest",
+      "scoreMode": "points",
+      "target": null,
+      "targetGap": null,
+      "rounds": null,
+      "fixedRoundScore": null,
+      "trackDealer": false,
+      "timerDuration": null,
+      "teamMode": false,
+      "winnerOnly": false,
+      "rulesSetup": "Jeu de plis de La Boîte de Jeu (auteur Ignasi Ferré, illustrations Manu Palau). 3 à 5 joueurs (variante à 2 joueurs incluse), dès 10 ans, environ 25 min. Chaque joueur reçoit une main de cartes numérotées.",
+      "rulesTurn": "On joue des plis : à tour de rôle, chacun pose une carte et le vainqueur du pli ramasse les cartes en jeu. Attention — dans Danger, remporter un pli peut aussi se retourner contre vous.",
+      "rulesEnd": "On classe ses cartes gagnées par dizaines, mais seule la plus petite unité de chaque dizaine rapporte des points, et deux cartes consécutives s'annulent. Le but : marquer des points… et surtout les conserver jusqu'à la fin. Le joueur avec le plus de points l'emporte.",
+      "rulesUrl": "https://www.laboitedejeu.fr/wp-content/uploads/2025/01/DAN-FR-RULES-l.pdf",
+      "roundNames": null,
+      "showAllRoundsAtStart": false
     }
   ]
 }
