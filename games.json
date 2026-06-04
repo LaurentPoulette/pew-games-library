@@ -404,15 +404,19 @@
       "winCondition": "highest",
       "scoreMode": "points",
       "target": null,
+      "targetGap": null,
       "rounds": null,
       "fixedRoundScore": null,
       "trackDealer": false,
       "timerDuration": null,
       "teamMode": false,
+      "winnerOnly": false,
       "rulesSetup": "Placez les 108 tuiles face cachée dans le sac. Chaque joueur tire 6 tuiles au hasard. Celui qui peut former la ligne la plus longue commence (en cas d'égalité, le plus vieux). On repioche jusqu'à 6 tuiles après chaque tour.",
       "rulesTurn": "Jouez 1 ou plusieurs tuiles sur le plateau en formant ou prolongeant des lignes. Dans une même ligne, toutes les tuiles doivent partager la même couleur OU la même forme (sans jamais avoir deux tuiles identiques). Marquez 1 point par tuile dans chaque ligne complétée par votre jeu. Un Qwirkle (6 tuiles en ligne) rapporte 6 points bonus.",
       "rulesEnd": "Quand le sac est vide et qu'un joueur a posé sa dernière tuile, il marque 6 points bonus et la partie s'arrête. Le joueur avec le plus de points gagne.",
-      "rulesUrl": "rules/lib_qwirkle.pdf"
+      "rulesUrl": "rules/lib_qwirkle.pdf",
+      "roundNames": null,
+      "showAllRoundsAtStart": false
     },
     {
       "id": "lib_codenames",
@@ -517,28 +521,6 @@
         "Manche 3 – Mime"
       ],
       "showAllRoundsAtStart": true
-    },
-    {
-      "id": "lib_just_one",
-      "name": "Just One",
-      "image": "images/lib_just_one.jpg",
-      "category": "lettres",
-      "addedAt": "2026-06-02",
-      "minAge": 8,
-      "minPlayers": 3,
-      "maxPlayers": 7,
-      "winCondition": "highest",
-      "scoreMode": "points",
-      "target": 13,
-      "rounds": 13,
-      "fixedRoundScore": null,
-      "trackDealer": false,
-      "timerDuration": 30,
-      "teamMode": false,
-      "rulesSetup": "Jeu coopératif. Préparez les cartes-mots (5 mots par carte), les chevalets et les feutres effaçables. Posez 13 cartes face cachée : c'est le compteur de score.",
-      "rulesTurn": "Le devineur tire une carte et choisit un numéro (1-5) sans voir le mot. Les autres joueurs écrivent chacun un indice en 30 secondes sur leur chevalet. On compare : les indices identiques sont annulés et cachés. Le devineur découvre les indices restants et tente de deviner le mot.",
-      "rulesEnd": "Bonne réponse : la carte va dans la pile succès. Mauvaise réponse ou pass : la carte est perdue et une carte supplémentaire est retirée. Sur 13 cartes, la note finale va de 0 (catastrophe) à 13 (chef-d'œuvre).",
-      "rulesUrl": "rules/lib_just_one.pdf"
     },
     {
       "id": "lib_boggle",
