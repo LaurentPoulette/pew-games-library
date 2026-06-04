@@ -603,7 +603,7 @@
     {
       "id": "lib_danger",
       "name": "Danger",
-      "image": null,
+      "image": "images/lib_danger.jpg",
       "category": "cartes",
       "addedAt": "2026-06-04",
       "minAge": 10,
