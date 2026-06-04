@@ -567,9 +567,9 @@
       "showAllRoundsAtStart": false
     },
     {
-      "id": "lib_decale",
-      "name": "Décale",
-      "image": "images/lib_decale.jpg",
+      "id": "lib_dekal",
+      "name": "Dékal",
+      "image": "images/lib_dekal.jpg",
       "category": "cartes",
       "addedAt": "2026-06-02",
       "minAge": 7,
@@ -578,15 +578,19 @@
       "winCondition": "lowest",
       "scoreMode": "points",
       "target": null,
+      "targetGap": null,
       "rounds": null,
       "fixedRoundScore": null,
       "trackDealer": false,
       "timerDuration": null,
       "teamMode": false,
+      "winnerOnly": false,
       "rulesSetup": "Mélangez le jeu de cartes et distribuez équitablement les cartes entre les joueurs. Les cartes restantes forment la pioche centrale.",
       "rulesTurn": "À votre tour, jouez une carte en respectant la règle du décalage : la carte jouée doit être dans la continuité (couleur ou valeur décalée d'un rang) par rapport à la dernière carte posée. Si vous ne pouvez pas jouer, piochez une carte.",
       "rulesEnd": "Le premier joueur à se débarrasser de toutes ses cartes remporte la manche. Les autres joueurs comptent la valeur des cartes restantes en main. Après plusieurs manches, le joueur avec le score le plus bas gagne.",
-      "rulesUrl": ""
+      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2024/10/regle-du-jeu-dekal.pdf",
+      "roundNames": null,
+      "showAllRoundsAtStart": false
     },
     {
       "id": "lib_jungo",
