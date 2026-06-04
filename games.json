@@ -47,7 +47,7 @@
       "rulesSetup": "Utilisez le jeu de 78 cartes de Tarot. Distribuez selon le nombre de joueurs (3J: 24 cartes, 4J: 18, 5J: 15). Les cartes restantes forment le chien.",
       "rulesTurn": "Phase d'enchères pour désigner le preneur (Prise, Garde, Garde sans, Garde contre). Le preneur écarte des cartes puis on joue les plis. L'Excuse, le 21 et le Petit sont les bouts.",
       "rulesEnd": "Le preneur gagne si son score en points de cartes atteint le seuil requis selon le nombre de bouts (56, 51 ou 41 pts). Le score final dépend du contrat joué.",
-      "rulesUrl": "https://www.fftarot.fr/le-tarot/regles-du-jeu/"
+      "rulesUrl": "rules/lib_tarot.pdf"
     },
     {
       "id": "lib_uno",
@@ -71,7 +71,7 @@
       "rulesSetup": "Mélangez les 108 cartes et distribuez-en 7 à chaque joueur. Retournez la première carte de la pioche pour démarrer la défausse.",
       "rulesTurn": "À votre tour jouez une carte de même couleur ou même chiffre que la dernière carte. Si vous ne pouvez pas, piochez. Les cartes spéciales (inversion, passage, +2, changement de couleur, +4) ont des effets immédiats. Annoncez \"Uno\" quand il vous reste une carte.",
       "rulesEnd": "Le premier joueur à poser toutes ses cartes gagne la manche. Les adversaires comptent la valeur des cartes qu'ils ont en main (chiffres = valeur faciale, cartes spéciales = 20 ou 50 pts). Premier à 500 pts perd.",
-      "rulesUrl": "https://regle.escaleajeux.fr/uno___rg.pdf",
+      "rulesUrl": "rules/lib_uno.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -97,7 +97,7 @@
       "rulesSetup": "Placez le plateau. Chaque joueur pioche 7 lettres. Tirez au sort le premier joueur.",
       "rulesTurn": "Formez un mot sur le plateau (horizontal ou vertical) en utilisant au moins une lettre déjà posée. Comptez vos points selon la valeur des lettres et les cases bonus. Repioche jusqu'à 7 lettres.",
       "rulesEnd": "La partie se termine quand le sac est vide et qu'un joueur a posé toutes ses lettres, ou quand plus personne ne peut jouer. Le joueur avec le plus de points gagne.",
-      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2022/11/regle-du-jeu-scrabble.pdf",
+      "rulesUrl": "rules/lib_scrabble.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -121,7 +121,7 @@
       "rulesSetup": "Utilisez le jeu Papayoo (60 cartes : 4 couleurs numérotées de 1 à 20, plus 10 Payoos). Distribuez toutes les cartes équitablement. En début de chaque manche, tirez au sort un Payoo qui deviendra le Papayoo (vaut 40 pts). Chaque joueur choisit 3 cartes à passer à son voisin de gauche.",
       "rulesTurn": "Le joueur à gauche du donneur entame en jouant une carte. Les autres joueurs doivent fournir la couleur demandée si possible, sinon ils jouent n'importe quelle carte. Le joueur ayant joué la carte la plus forte de la couleur entamée remporte le pli et entame le suivant.",
       "rulesEnd": "En fin de manche, chaque joueur compte ses cartes pénalisantes : les 5, 10, 15 et 20 de chaque couleur valent leur valeur en points, chaque Payoo vaut 10 pts, sauf le Papayoo qui vaut 40 pts. La partie se termine quand un joueur atteint 250 points. Le joueur avec le score le plus bas gagne.",
-      "rulesUrl": "https://www.gigamic.com/jeu/papayoo"
+      "rulesUrl": "rules/lib_papayoo.pdf"
     },
     {
       "id": "lib_yams",
@@ -187,7 +187,7 @@
       "rulesSetup": "Utilisez un jeu de 116 cartes (2 jeux de 52 + 12 jokers). À la manche des 3, distribuez 3 cartes à chaque joueur ; à la manche des 4, distribuez-en 4, et ainsi de suite jusqu'à la manche du Roi (13 cartes).",
       "rulesTurn": "La carte du rang joué est joker (ex : les 5 sont jokers à la manche des 5). Chaque joueur joue en essayant de se débarrasser de ses cartes par séries ou suites. Pioche une carte si impossible de jouer. Quand un joueur pose sa dernière carte, les autres comptent les points des cartes restantes en main.",
       "rulesEnd": "Après les 11 manches (3 à Roi), on additionne les points de chaque joueur. Le joueur avec le score le plus bas gagne. Les figures valent 10 pts, le joker 50 pts, les autres cartes leur valeur faciale.",
-      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2024/10/regle-du-jeu-les-cinq-rois.pdf",
+      "rulesUrl": "rules/lib_cinq_rois.pdf",
       "roundNames": [
         "3",
         "4",
@@ -225,7 +225,7 @@
       "rulesSetup": "Délimitez un terrain (boulodrome ou terrain plat). Formez les équipes : tête-à-tête (1v1), doublette (2v2) ou triplette (3v3). Chaque joueur dispose de 3 boules (2 en triplette). Tirez au sort l'équipe qui commence et placez le cochonnet à la distance réglementaire.",
       "rulesTurn": "L'équipe qui a le cochonnet le lance (6 à 10 m). Les joueurs lancent leurs boules en alternance : celui qui est le plus loin du cochonnet joue. On peut pointer (placer sa boule près du cochonnet) ou tirer (déloger une boule adverse). L'équipe qui n'est pas au point joue jusqu'à être au point ou avoir épuisé ses boules.",
       "rulesEnd": "Quand toutes les boules ont été jouées, l'équipe dont la boule est la plus proche du cochonnet marque autant de points qu'elle a de boules mieux placées que la meilleure boule adverse. La partie se joue en 13 points avec un écart de 2 points minimum.",
-      "rulesUrl": "https://fipjp.org/images/pdf/reglements/REGLEMENT-OFFICIEL-SPORT-PETANQUE.pdf",
+      "rulesUrl": "rules/lib_petanque.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -249,7 +249,7 @@
       "rulesSetup": "Distribuez 12 cartes à chaque joueur disposées en 4 colonnes de 3, face cachée. Chaque joueur retourne 2 cartes de son choix. Le joueur ayant la valeur totale de cartes visibles la plus haute commence.",
       "rulesTurn": "À votre tour : piochez la carte du dessus de la pioche ou prenez la défausse visible. Échangez-la avec l'une de vos cartes (face cachée ou visible) ou défaussez-la et retournez une carte cachée. 3 cartes identiques en colonne sont automatiquement retirées du jeu.",
       "rulesEnd": "Quand un joueur a retourné toutes ses cartes, les autres jouent un dernier tour chacun. On additionne les valeurs (cartes de -2 à 12). Si le joueur ayant déclenché la fin ne détient pas le score le plus bas, son score est doublé. Dès qu'un joueur atteint 100 pts en cumulé sur plusieurs manches, le joueur avec le total le plus bas gagne.",
-      "rulesUrl": "https://www.magilano.com/fr/regles-du-jeu-de-skyjo/"
+      "rulesUrl": "rules/lib_skyjo.pdf"
     },
     {
       "id": "lib_6_qui_prend",
@@ -273,7 +273,7 @@
       "rulesSetup": "Mélangez les 104 cartes (numérotées de 1 à 104). Distribuez 10 cartes à chaque joueur. Retournez 4 cartes face visible pour former 4 rangées sur la table.",
       "rulesTurn": "Tous les joueurs choisissent simultanément une carte et la révèlent. Dans l'ordre croissant des valeurs, chaque carte est placée à la suite de la rangée dont la tête est la plus proche et inférieure. Si la carte est la 6ème d'une rangée, le joueur prend les 5 cartes précédentes (points de pénalité) et sa carte démarre la rangée. Si la carte est inférieure à toutes les têtes, le joueur choisit une rangée entière et la ramasse.",
       "rulesEnd": "La partie s'arrête dès qu'un joueur atteint 66 points. Le joueur ayant le moins de points de pénalité gagne. Chaque carte vaut un certain nombre de têtes de bœuf selon sa valeur (multiples de 5 = 2 têtes, multiples de 10 = 3 têtes, multiples de 11 = 5 têtes, autres = 1 tête).",
-      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2022/11/regle-du-jeu-6-qui-prend.pdf",
+      "rulesUrl": "rules/lib_6_qui_prend.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -299,7 +299,7 @@
       "rulesSetup": "À la manche N, distribuez N cartes à chaque joueur (1 carte à la manche 1, jusqu'à 10 à la manche 10). Le jeu contient des cartes numérotées 1-14 en 4 couleurs, plus des cartes spéciales : Pirates, Jolly Roger, Sirènes et le Skull King.",
       "rulesTurn": "Chaque joueur annonce le nombre de plis qu'il pense remporter. Puis on joue les plis : la couleur entamée doit être suivie si possible. Les cartes noires battent toutes les couleurs. Les Pirates battent toutes les couleurs et le Jolly Roger. Les Sirènes battent le Skull King sauf si un Pirate est présent.",
       "rulesEnd": "Pari réussi (hors 0) : 20 pts par pli + bonus spéciaux. Pari de 0 réussi : 10 pts × numéro de manche + bonus. Pari raté : -10 pts par pli d'écart. Bonus : capturer le Skull King avec une Sirène (+50), Pirater la Sirène (+30). Après 10 manches, le joueur avec le plus de points gagne.",
-      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2023/07/regle-du-jeu-skull-king.pdf",
+      "rulesUrl": "rules/lib_skull_king.pdf",
       "roundNames": [
         "Manche 1",
         "Manche 2",
@@ -336,7 +336,7 @@
       "rulesSetup": "Chaque joueur reçoit une carte Merveille avec sa face A ou B. Préparez les 3 decks d'Âge (I, II, III) selon le nombre de joueurs (retirez des guildes selon le nombre de joueurs pour l'Âge III). Distribuez 7 cartes de l'Âge I à chaque joueur.",
       "rulesTurn": "Simultanément, chaque joueur choisit une carte en main et la joue (construit en payant les ressources, ou défausse pour 3 pièces, ou pose sur sa merveille). On passe les cartes restantes au voisin (sens horaire à l'Âge I et III, antihoraire à l'Âge II). À la fin de chaque Âge, résolvez les conflits militaires entre voisins.",
       "rulesEnd": "Après les 3 Âges, comptez les points : conflits militaires (jetons victoire/défaite), trésors, merveilles, bâtiments civils (bleus), commerces (jaunes), guildes (violettes), sciences (vertes = séries ou ensembles de 3). Le joueur avec le total le plus élevé gagne.",
-      "rulesUrl": "https://regle.escaleajeux.fr/7wond_rg.pdf",
+      "rulesUrl": "rules/lib_7_wonders.pdf",
       "roundNames": [
         "Âge I",
         "Âge II",
@@ -364,7 +364,7 @@
       "rulesSetup": "Posez la tuile de départ au centre de la table. Chaque joueur prend ses 7 meeples de sa couleur et en place un sur la piste de score. Mélangez les 71 tuiles restantes en pioche face cachée.",
       "rulesTurn": "Piochez une tuile et placez-la en respectant la continuité des terrains (routes, villes, champs, monastères). Optionnellement, posez un meeple sur un élément de la tuile placée (pas si l'élément est déjà occupé). Si un élément est complété (ville fermée, route terminée, monastère entouré), marquez les points et récupérez le meeple.",
       "rulesEnd": "Quand la dernière tuile est posée, comptez les éléments inachevés (villes et routes = ½ point par tuile, monastères = 1 pt + 1 par voisine, champs = 3 pts par ville complète adjacente). Le joueur avec le plus de points gagne.",
-      "rulesUrl": "https://www.carcassonne.com"
+      "rulesUrl": "rules/lib_carcassonne.pdf"
     },
     {
       "id": "lib_burger_quiz",
@@ -388,7 +388,7 @@
       "rulesSetup": "Formez 2 équipes (Team Steak et Team Végé). Désignez un meneur de jeu. Chaque équipe dispose de son buzzer. Préparez les cartes questions par catégories.",
       "rulesTurn": "Le meneur pioche une carte et lit la question. Les joueurs buzzent pour répondre (ou les deux équipes se préparent selon le type de manche). Les manches varient : Questions de Merde (QCM), Questions Cash (réponse directe), Jackpot (points cumulatifs), Tapis (mise double ou rien). Une bonne réponse rapporte des points, une mauvaise peut en faire perdre.",
       "rulesEnd": "Après avoir parcouru toutes les manches prévues, l'équipe avec le plus de points gagne. Certaines manches spéciales peuvent inverser les scores ou offrir des bonus. Le meneur peut arbitrer librement pour pimenter la partie.",
-      "rulesUrl": "https://regle.escaleajeux.fr/burge_rg.pdf",
+      "rulesUrl": "rules/lib_burger_quiz.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -412,7 +412,7 @@
       "rulesSetup": "Placez les 108 tuiles face cachée dans le sac. Chaque joueur tire 6 tuiles au hasard. Celui qui peut former la ligne la plus longue commence (en cas d'égalité, le plus vieux). On repioche jusqu'à 6 tuiles après chaque tour.",
       "rulesTurn": "Jouez 1 ou plusieurs tuiles sur le plateau en formant ou prolongeant des lignes. Dans une même ligne, toutes les tuiles doivent partager la même couleur OU la même forme (sans jamais avoir deux tuiles identiques). Marquez 1 point par tuile dans chaque ligne complétée par votre jeu. Un Qwirkle (6 tuiles en ligne) rapporte 6 points bonus.",
       "rulesEnd": "Quand le sac est vide et qu'un joueur a posé sa dernière tuile, il marque 6 points bonus et la partie s'arrête. Le joueur avec le plus de points gagne.",
-      "rulesUrl": "https://www.mindware.com/p-673-qwirkle.aspx"
+      "rulesUrl": "rules/lib_qwirkle.pdf"
     },
     {
       "id": "lib_codenames",
@@ -434,7 +434,7 @@
       "rulesSetup": "Formez deux équipes. Chaque équipe désigne un maître-espion. Disposez les 25 cartes-mots en grille 5×5. Le maître-espion consulte la carte-clé qui indique quels mots appartiennent à chaque équipe (rouge/bleu) et lequel est l'assassin.",
       "rulesTurn": "Le maître-espion donne un indice en UN seul mot + un chiffre (nombre de mots visés). Son équipe discute puis désigne des cartes. Le timer (2 min) peut encadrer la phase de devinette. Si la carte est adverse ou neutre, le tour s'arrête. Si c'est l'assassin, l'équipe perd immédiatement.",
       "rulesEnd": "La première équipe à révéler tous ses agents gagne la manche. En cas de tournoi, comptez les victoires. L'équipe avec le plus de manches gagnées remporte la partie.",
-      "rulesUrl": "https://www.czechgames.com/en/codenames/"
+      "rulesUrl": "rules/lib_codenames.pdf"
     },
     {
       "id": "lib_taboo",
@@ -458,7 +458,7 @@
       "rulesSetup": "Formez deux équipes. Préparez les cartes-mots, chacune avec un mot à faire deviner et 5 mots interdits (tabous). Un arbitre de l'équipe adverse surveille.",
       "rulesTurn": "Le joueur actif a 60 secondes pour faire deviner un maximum de mots à son équipe, sans utiliser le mot ni aucun des 5 mots tabous. L'arbitre adverse sonne la cloche si un mot interdit est dit. Chaque mot réussi = +1 pt, chaque faute = -1 pt.",
       "rulesEnd": "Après que chaque joueur a joué au moins une fois (ou après N tours), l'équipe avec le plus de points gagne.",
-      "rulesUrl": "https://regle.escaleajeux.fr/taboo_rg.pdf",
+      "rulesUrl": "rules/lib_taboo.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -484,7 +484,7 @@
       "rulesSetup": "Formez des équipes. Préparez les cartes-mots et un tableau/feuille par équipe. Désignez un premier dessinateur par équipe.",
       "rulesTurn": "Le dessinateur pioche une carte et choisit un mot selon la catégorie. Il a 60 secondes pour le faire deviner à son équipe en dessinant uniquement — sans parler, écrire de lettres ni faire de gestes. Si l'équipe trouve dans le temps, elle avance sur le plateau (ou marque un point).",
       "rulesEnd": "La première équipe à atteindre la case Arrivée (version plateau) ou avec le plus de points après N rounds gagne.",
-      "rulesUrl": "https://regle.escaleajeux.fr/picti_rg.pdf",
+      "rulesUrl": "rules/lib_pictionary.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -510,7 +510,7 @@
       "rulesSetup": "Formez 2 équipes (ou plus). Mélangez 40 cartes-personnages. En début de partie chaque joueur en choisit 4 et en rend 2 : les 40 cartes finales forment la pioche commune. Le timer est réglé à 30 secondes.",
       "rulesTurn": "Manche 1 (description libre) : faites deviner un maximum de personnages avec les mots de votre choix. Manche 2 (un seul mot) : un unique mot + gestes autorisés. Manche 3 (mime) : mime uniquement, sans un mot. Les mêmes 40 cartes sont remises dans la pioche à chaque manche.",
       "rulesEnd": "Après les 3 manches, chaque carte devinée vaut 1 point. L'équipe avec le plus de points gagne.",
-      "rulesUrl": "https://regle.escaleajeux.fr/timeu_rg.pdf",
+      "rulesUrl": "rules/lib_times_up.pdf",
       "roundNames": [
         "Manche 1 – Description",
         "Manche 2 – Un mot",
@@ -538,7 +538,7 @@
       "rulesSetup": "Jeu coopératif. Préparez les cartes-mots (5 mots par carte), les chevalets et les feutres effaçables. Posez 13 cartes face cachée : c'est le compteur de score.",
       "rulesTurn": "Le devineur tire une carte et choisit un numéro (1-5) sans voir le mot. Les autres joueurs écrivent chacun un indice en 30 secondes sur leur chevalet. On compare : les indices identiques sont annulés et cachés. Le devineur découvre les indices restants et tente de deviner le mot.",
       "rulesEnd": "Bonne réponse : la carte va dans la pile succès. Mauvaise réponse ou pass : la carte est perdue et une carte supplémentaire est retirée. Sur 13 cartes, la note finale va de 0 (catastrophe) à 13 (chef-d'œuvre).",
-      "rulesUrl": "https://www.rprod.com/fr/jeux/just-one"
+      "rulesUrl": "rules/lib_just_one.pdf"
     },
     {
       "id": "lib_boggle",
@@ -562,7 +562,7 @@
       "rulesSetup": "Secouez le cube de lettres (ou disposez les dés aléatoirement). Chaque joueur prend une feuille et un crayon. Retournez le sablier (3 minutes).",
       "rulesTurn": "Pendant 3 minutes, chaque joueur écrit en silence un maximum de mots en reliant des lettres adjacentes (horizontalement, verticalement ou en diagonale), sans réutiliser deux fois la même case. Les mots doivent faire au moins 3 lettres.",
       "rulesEnd": "On compare les listes. Les mots trouvés par plusieurs joueurs sont annulés. Les mots uniques rapportent des points selon leur longueur (3-4 lettres = 1 pt, 5 = 2, 6 = 3, 7 = 5, 8+ = 11). Le joueur avec le plus de points gagne.",
-      "rulesUrl": "https://regle.escaleajeux.fr/boggl_rg.pdf",
+      "rulesUrl": "rules/lib_boggle.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -588,7 +588,7 @@
       "rulesSetup": "Mélangez le jeu de cartes et distribuez équitablement les cartes entre les joueurs. Les cartes restantes forment la pioche centrale.",
       "rulesTurn": "À votre tour, jouez une carte en respectant la règle du décalage : la carte jouée doit être dans la continuité (couleur ou valeur décalée d'un rang) par rapport à la dernière carte posée. Si vous ne pouvez pas jouer, piochez une carte.",
       "rulesEnd": "Le premier joueur à se débarrasser de toutes ses cartes remporte la manche. Les autres joueurs comptent la valeur des cartes restantes en main. Après plusieurs manches, le joueur avec le score le plus bas gagne.",
-      "rulesUrl": "https://ludomia.fr/wp-content/uploads/2024/10/regle-du-jeu-dekal.pdf",
+      "rulesUrl": "rules/lib_dekal.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -614,7 +614,7 @@
       "rulesSetup": "Mélangez les 72 cartes et distribuez-les face cachée : 10 cartes par joueur à 3 joueurs, 8 cartes à 4-5 joueurs. Chaque joueur prend ses cartes en main SANS JAMAIS EN CHANGER L'ORDRE (ni trier, ni déplacer). Formez une pioche face cachée avec le reste. Le joueur ayant mangé une banane le plus récemment commence.",
       "rulesTurn": "Dans le sens horaire, à son tour un joueur doit SOIT jouer une combinaison, SOIT piocher. Jouer : posez une combinaison de cartes de même valeur ET adjacentes dans votre main, plus forte que celle sur la table (plus de cartes, ou même nombre mais valeur plus élevée), puis reprenez les cartes battues (en main n'importe où, ou à la défausse). Piocher : prenez la 1re carte de la pioche et ajoutez-la en main, défaussez-la, ou faites un « JUNGO » si elle permet de poser une meilleure combinaison. Les 8 cartes doubles (1/2, 3/4, 5/6, 7/8) prennent la valeur de votre choix.",
       "rulesEnd": "Dès qu'un joueur n'a plus de cartes en main, il remporte la partie. Les parties sont rapides : vous pouvez décider de jouer en 2 manches gagnantes, le 1er joueur à gagner 2 fois l'emporte.",
-      "rulesUrl": "https://www.cocktailgames.com/wp-content/uploads/2024/06/regle_jungo_0424_v11.pdf",
+      "rulesUrl": "rules/lib_jungo.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     },
@@ -640,7 +640,7 @@
       "rulesSetup": "Jeu de plis de La Boîte de Jeu (auteur Ignasi Ferré, illustrations Manu Palau). 3 à 5 joueurs (variante à 2 joueurs incluse), dès 10 ans, environ 25 min. Chaque joueur reçoit une main de cartes numérotées.",
       "rulesTurn": "On joue des plis : à tour de rôle, chacun pose une carte et le vainqueur du pli ramasse les cartes en jeu. Attention — dans Danger, remporter un pli peut aussi se retourner contre vous.",
       "rulesEnd": "On classe ses cartes gagnées par dizaines, mais seule la plus petite unité de chaque dizaine rapporte des points, et deux cartes consécutives s'annulent. Le but : marquer des points… et surtout les conserver jusqu'à la fin. Le joueur avec le plus de points l'emporte.",
-      "rulesUrl": "https://www.laboitedejeu.fr/wp-content/uploads/2025/01/DAN-FR-RULES-l.pdf",
+      "rulesUrl": "rules/lib_danger.pdf",
       "roundNames": null,
       "showAllRoundsAtStart": false
     }
