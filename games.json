@@ -112,16 +112,20 @@
       "maxPlayers": 8,
       "winCondition": "lowest",
       "scoreMode": "points",
-      "target": 250,
+      "target": null,
+      "targetGap": null,
       "rounds": null,
-      "fixedRoundScore": null,
+      "fixedRoundScore": 250,
       "trackDealer": true,
       "timerDuration": null,
       "teamMode": false,
+      "winnerOnly": false,
       "rulesSetup": "Utilisez le jeu Papayoo (60 cartes : 4 couleurs numérotées de 1 à 20, plus 10 Payoos). Distribuez toutes les cartes équitablement. En début de chaque manche, tirez au sort un Payoo qui deviendra le Papayoo (vaut 40 pts). Chaque joueur choisit 3 cartes à passer à son voisin de gauche.",
       "rulesTurn": "Le joueur à gauche du donneur entame en jouant une carte. Les autres joueurs doivent fournir la couleur demandée si possible, sinon ils jouent n'importe quelle carte. Le joueur ayant joué la carte la plus forte de la couleur entamée remporte le pli et entame le suivant.",
       "rulesEnd": "En fin de manche, chaque joueur compte ses cartes pénalisantes : les 5, 10, 15 et 20 de chaque couleur valent leur valeur en points, chaque Payoo vaut 10 pts, sauf le Papayoo qui vaut 40 pts. La partie se termine quand un joueur atteint 250 points. Le joueur avec le score le plus bas gagne.",
-      "rulesUrl": "rules/lib_papayoo.pdf"
+      "rulesUrl": "rules/lib_papayoo.pdf",
+      "roundNames": null,
+      "showAllRoundsAtStart": false
     },
     {
       "id": "lib_yams",
